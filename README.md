@@ -1,19 +1,3 @@
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣾⣿⣷⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣿⣿⣿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⠀⠀⢀⣀⣠⣤⣤⣤⣤⣼⣷⣿⣿⠿⠿⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⢠⣾⢟⣭⣝⢿⣿⣿⣿⣿⠟⠩⢒⠂⠀⠀⠀⠤⢄⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⣸⣸⣯⣻⣿⣾⣿⣿⣿⠏⠀⠈⡉⠙⠄⠀⠐⠉⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⣿⣽⣿⣿⣿⣿⣿⣿⣿⠀⠀⠈⠛⠁⠀⠀⠀⠿⠂⠀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣆⢀⣠⣤⡤⠒⠺⠛⢄⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⣿⡏⣿⣿⣿⣿⣿⣿⣿⣿⣿⣍⠁⠀⠤⠤⠤⠂⣹⣿⠀⠀⠀⠀⠀⠀⠀⠀
-⠀⠀⣿⣧⣿⣿⡏⢻⣿⣿⣿⣿⣿⣿⣿⣶⣶⣶⣶⣾⣿⣷⣄⠀⠀⠀⠀⠀⠀⠀
-⠀⢀⣿⣿⣿⣿⡇⣽⡿⠉⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠀⠀⠀⠀⠀
-⢀⣸⣿⣿⣿⠉⠑⠛⠀⠄⠀⠙⠛⢿⣿⡿⠿⢿⠿⢿⣿⠛⠛⠛⢠⠀⠀⠀⠀⠀
-⣿⣿⣿⣿⣿⡄⠀⣀⣀⣀⣀⣀⣀⣈⣿⣆⣀⣸⣀⣘⣿⣀⣀⣀⣸⣀⣀⣀⡀⠀
-⠛⠛⠛⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⠀
-⠀⠀⠀⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿⠛⠛⠛⠛⠛⠛⠀
-⠀⠀⠀⢿⣿⣿⣿⣿⣿⡟⠛⠻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⠀⠀⠀⠀⠀⠀
-
 Some of you may laugh at this, but the universe of Thomas the Tank Engine has surprisingly elaborate lore. The series is decades old, and there are a multitude of books that take place within the universe and go into the lore. The TV shows don't go that deep into the lore, so if you're actually interested in the full extent of worldbuilding, you have to read the books.
 
 I used to read the books a lot as a child. The worldbuilding actually isn't too bad, all things considered. The most notable thing is that it is really in-depth. There's an entire language called Sudric that was widely spoken on the island before their culture became Anglicized. The Island of Sodor is less than a 100 miles across if I recall. It was never really explained why such a small island relies so much on railroads.
